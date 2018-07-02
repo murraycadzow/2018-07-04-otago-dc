@@ -437,9 +437,9 @@ and our administrator may contact you if we need any extra information.</h4>
   <p>
     SQL is a specialized programming language used with databases.  We
     use a simple database manager called
-    <a href="https://www.sqlite.org/">SQLite</a> in our lessons.
+    <a href="http://sqlitebrowser.org">DB browser for SQLite</a> in our lessons.
   </p>
-	<p> Please install DB browser for SQL <a href="http://sqlitebrowser.org">http://sqlitebrowser.org</a> installation instructions for Windows/MacOS/Linux are available on the software's page.</p>
+	<p> Please install DB browser for SQLite <a href="http://sqlitebrowser.org">http://sqlitebrowser.org</a> installation instructions for Windows/MacOS/Linux are available on the software's page.</p>
   
 
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
