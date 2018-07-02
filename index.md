@@ -439,7 +439,7 @@ and our administrator may contact you if we need any extra information.</h4>
     use a simple database manager called
     <a href="http://sqlitebrowser.org">DB browser for SQLite</a> in our lessons.
   </p>
-	<p> Please install DB browser for SQLite <a href="http://sqlitebrowser.org">http://sqlitebrowser.org</a>, installation instructions for Windows/MacOS/Linux are available after following the link.</p>
+	<p> Please follow the instructions to install DB browser for SQLite here: <a href="http://www.datacarpentry.org/sql-socialsci/setup/">http://www.datacarpentry.org/sql-socialsci/setup/</a></p>
   
 
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
